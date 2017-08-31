@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:t_id;datatype:int,name:training_name;datatype:blob,name:full_name;datatype:blob,name:gender;datatype:blob,name:org_name;datatype:blob,name:address;datatype:blob,name:position_dpt;datatype:blob,name:qualification;datatype:blob,name:expereince;datatype:blob,name:office_no;datatype:blob,name:fax_no;datatype:blob,name:mobile;datatype:blob,name:email;datatype:blob,name:english_pro;datatype:blob,name:mode_training;datatype:blob,name:amount_paid;datatype:blob,name:pay_through;datatype:blob,name:cheque_number;datatype:blob,name:pay_order;datatype:blob,name:file;datatype:blob,name:room_Preference;datatype:blob,name:total_night;datatype:blob,name:date_chckin;datatype:date,name:chck_intime;datatype:time,name:date_chckout;datatype:date,name:chck_outitme;datatype:time,name:pick_drop;datatype:blob,name:comments;datatype:blob" />
+</info>

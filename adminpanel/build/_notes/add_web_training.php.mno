@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:web_id;datatype:int,name:training_name;datatype:blob,name:description;datatype:blob,name:module1;datatype:blob,name:module2;datatype:blob,name:module3;datatype:blob,name:module4;datatype:blob,name:module5;datatype:blob,name:module6;datatype:blob,name:module7;datatype:blob,name:dates;datatype:blob,name:fee;datatype:blob" />
+</info>

@@ -1,0 +1,8 @@
+Black Tie Admin
+A theme by Portnine 
+portnine.com
+
+This theme was created using Middleman. The files in the 'source' directory include the .erb templates and .less files. If you are building a Ruby on Rails or similar project, you should be able to use these directly without having to split the files yourself.
+
+The background pattern images come from http://subtlepatterns.com/
+Fonts by FontAwesome: http://fortawesome.github.com/Font-Awesome/

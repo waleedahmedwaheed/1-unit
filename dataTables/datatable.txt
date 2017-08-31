@@ -1,0 +1,29 @@
+
+<script type="text/javascript" src="js/jquery-1.9.0.js"></script>
+<script type="text/javascript" src="dataTables/jquery.dataTables.min.js"></script>
+<link type="text/css" href="dataTables/jquery.dataTables.css" rel="stylesheet">
+<link type="text/css" href="dataTables/dataTables.tableTools.css" rel="stylesheet">
+<script type="text/javascript" charset="utf-8" src="dataTables/dataTables.tableTools.js"></script>
+
+<table id="example3" class="display" cellspacing="0"  width="100%"  >
+
+</table>
+
+
+
+				
+<script> 
+//$(document).ready(function() {  $('#example').DataTable();} );
+
+$(document).ready( function () {
+    $('#example3').dataTable( {
+        "dom": 'T<"clear">lfrtip',
+		"scrollX": "200px",
+		"scrollX":true,
+        "tableTools": {
+            "sSwfPath": "dataTables/copy_csv_xls_pdf.swf"
+        }
+    } );
+} );
+
+</script>			
